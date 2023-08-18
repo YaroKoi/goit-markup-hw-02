@@ -180,9 +180,13 @@ body{
 }
 
 .logotype-footer{
-    color: #F4F4FD
+        color: #4d5ae5;
 }
 
 .footer{
     background-color: #2E2F42;
+}
+
+.foter-span{
+        color: #F4F4FD
 }
