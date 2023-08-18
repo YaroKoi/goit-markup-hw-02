@@ -34,6 +34,7 @@ body{
         line-height: 1.5;
         letter-spacing: 0.32px;
         list-style-type: none;
+        color: #2e2f42;
 }
 .social-link{
         font-size: 16px;
@@ -50,6 +51,9 @@ body{
 .link:hover,
 .link:focus{
     color: #404BBF;
+}
+.social-adress{
+        font-style: normal
 }
 
 /* Hero Image */
