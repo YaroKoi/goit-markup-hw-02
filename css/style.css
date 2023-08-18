@@ -108,11 +108,12 @@ body{
 /* Team */
 
 .team{
-    background-color: #F4F4FD;
+        background-color: #F4F4FD;
 }
 
 .team-item{
-    list-style-type: none;
+        list-style-type: none;
+        background-color: #FFFFFF
 }
 
 .team-title{
@@ -123,10 +124,6 @@ body{
         text-align: center;
         text-transform: capitalize;
         color: #2e2f42;
-}
-
-.team-list{
-        background-color: #FFFFFF
 }
 
 .team-title-name{
@@ -162,6 +159,7 @@ body{
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 
 .portfolio-text{
